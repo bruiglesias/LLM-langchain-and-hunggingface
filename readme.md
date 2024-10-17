@@ -1,4 +1,4 @@
-# Interface de Comunicação com IA Usando Streamlit e Modelos de Linguagem
+# Interface de Comunicação com IA (Chat) - Usando Streamlit e LLM
 
 ## Descrição
 
@@ -161,9 +161,11 @@ if user_query is not None and user_query != "" and uploads is not None:
 
 ```
 Este código exibe a mensagem do usuário e a resposta da IA na interface do Streamlit.
+
 ## Personalização
 
 - Modelos: Você pode ajustar o modelo de linguagem mudando os parâmetros dos métodos model_hf_hub, model_openai, ou model_ollama.
 - Prompt: O prompt de geração de respostas pode ser adaptado conforme necessário dentro da função config_rag_chain.
+
 
 Sinta-se à vontade para adaptar e melhorar este README para melhor refletir suas necessidades específicas ou alterações no projeto!
