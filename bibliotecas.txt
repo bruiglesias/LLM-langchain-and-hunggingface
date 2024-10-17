@@ -1,0 +1,11 @@
+pip install langchain  langchain-community langchain-huggingface
+
+pip install python-dotenv
+
+pip install torch torchvision torchaudio
+
+pip install transformers einops accelerate bitsandbytes
+
+pip install langchain_ollama langchain_openai
+
+pip install streamlit
