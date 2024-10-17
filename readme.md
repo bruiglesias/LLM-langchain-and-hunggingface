@@ -1,4 +1,4 @@
-# Interface de Comunicação com IA (Chat) - Usando Streamlit e LLM (langchain-and-hunggingface)
+# Interface de Comunicação com IA (Chat) - Usando Streamlit e LLMs (langchain e hunggingface) + RAG
 
 
 <b>Autor: Bruno P. Iglesias</b>
