@@ -1,5 +1,7 @@
 # Interface de Comunicação com IA (Chat) - Usando Streamlit e LLM
 
+<b>Autor: Bruno P. Iglesias</b>
+
 ## Descrição
 
 Este repositório contém uma aplicação desenvolvida com **Streamlit** que permite aos usuários fazer o upload de arquivos PDF e interagir com **Modelos de Linguagem (LLMs)**. A aplicação utiliza técnicas de **retrieval-augmented generation (RAG)**, que combinam recuperação de informações e geração de respostas, para fornecer interações contextuais baseadas no conteúdo dos documentos enviados.
