@@ -7,6 +7,8 @@
 
 Este repositório contém uma aplicação desenvolvida com **Streamlit** que permite aos usuários fazer o upload de arquivos PDF e interagir com **Modelos de Linguagem (LLMs)**. A aplicação utiliza técnicas de **retrieval-augmented generation (RAG)**, que combinam recuperação de informações e geração de respostas, para fornecer interações contextuais baseadas no conteúdo dos documentos enviados.
 
+<img src="https://github.com/bruiglesias/llm-langchain-and-hunggingface/blob/master/img_01.png" />
+
 ## Funcionalidades
 
 - **Upload de arquivos PDF**: Os usuários podem enviar vários arquivos PDF para análise.
